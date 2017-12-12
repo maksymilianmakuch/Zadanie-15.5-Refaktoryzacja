@@ -1,0 +1,19 @@
+{
+	"name": "wyszukiwarka_gifow",
+	"version": "1.0.0",
+	"description": "",
+	"main": "App.js",
+	"dependencies": {
+		"babel-standalone": "^6.26.0",
+		"http-server": "^0.10.0"
+	},
+	"devDependencies": {
+		"babel-polyfill": "^6.26.0"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "http-server"
+	},
+	"author": "",
+	"license": "ISC"
+}
